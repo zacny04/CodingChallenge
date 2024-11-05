@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodingChallenge.App": {
+      "commandName": "Project",
+      "commandLineArgs": "--hotels hotels.json --bookings bookings.json"
+    }
+  }
+}
